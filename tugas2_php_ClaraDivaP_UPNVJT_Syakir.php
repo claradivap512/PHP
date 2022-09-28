@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="mb-3">
-            <label class="form-label" for="jumlahAnak">Jumlah Anak</label>
+            <label class="form-label" for="jumlahAnak">Jumlah Anak (Isi dengan - jika tidak mempunyai anak)</label>
             <input class="form-control" name="jmlhAnak" type="text" placeholder="Jumlah Anak" data-sb-validations="" />
         </div>
         <div class="d-grid">
